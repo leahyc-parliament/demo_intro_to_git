@@ -6,3 +6,6 @@
 - `git push`
 
 ## Git Cloning
+- `git clone <URL>`
+
+## Git Branching and Merging
